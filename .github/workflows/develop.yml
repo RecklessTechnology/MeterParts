@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        token: ${{ secrets.RT_ACCESS_TOKEN }}
+        token: ${{ secrets.MeterParts_Submodule_Checkout }}
         submodules: recursive
         clean: true
     - name: Build the docker-compose stack
