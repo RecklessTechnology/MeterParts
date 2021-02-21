@@ -1,3 +1,3 @@
 [submodule "travis-TAP"]
 	path = travis-TAP
-	url = https://github.com/MeterParts/travis-TAP
+	url = https://github.com/jerknose/travis-TAP
