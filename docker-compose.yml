@@ -16,7 +16,7 @@ services:
     
     # Proxy app port to avoid to avoid port collisions.
     ports:
-      - 12001:3000
+      - 12001:80
 
     labels:
       # User Traefix proxy routing with Let's Encrypt SSL certificates.
