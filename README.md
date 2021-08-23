@@ -1,6 +1,6 @@
 # MeterParts  
 
-Repo to hold projects and demos for [Meter](https://www.meter.io).  
+Repo to hold projects and demos for [Meter](https://meter.parts).  
 
 This repo uses Github Actions to trigger Doker Compose to build the submodules.  
 
